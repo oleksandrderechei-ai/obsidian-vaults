@@ -173,13 +173,9 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "markdown-importer:Open format converter": false
+      "bases:Create new base": false
     }
   },
-  "active": "172bc4bd2cebe8d0",
-  "lastOpenFiles": [
-    "_templates/default-note.md",
-    "_templates"
-  ]
+  "active": "8671f71f90314332",
+  "lastOpenFiles": []
 }
