@@ -9,6 +9,8 @@
 
 data/
 
+*.pdf
+
 
 # macOS
 .DS_Store
