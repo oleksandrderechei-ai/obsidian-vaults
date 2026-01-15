@@ -9,7 +9,7 @@ A reusable conversation protocol for gathering requirements through guided, one-
 - Multi-step data collection
 - Any task requiring structured user input
 
-## Protocol
+## Dialog Protocol
 
 Present **one question at a time**. Each question includes numbered options plus navigation commands as the last two options:
 
@@ -21,7 +21,7 @@ Present **one question at a time**. Each question includes numbered options plus
 4. Next - Skip this question, continue to next
 5. Skip - Use defaults and complete now
 
-You can also type a custom answer.
+➡️ You can also type a your answer.
 ```
 
 ## User Response Handling
@@ -41,7 +41,7 @@ You can also type a custom answer.
 - **Always** keep option text concise (under 15 words per option)
 - **Limit** content options to 1-5 per question (before Next/Skip)
 
-## Example Flow
+## Dialog Example
 
 **Agent:**
 
@@ -52,7 +52,7 @@ You can also type a custom answer.
 4. Next - Skip this question, continue to next
 5. Skip - Use defaults and complete now
 
-You can also type a custom answer.
+➡️ You can also type a your answer.
 
 **User:** 2
 
@@ -65,7 +65,7 @@ You can also type a custom answer.
 4. Next - Skip this question, continue to next
 5. Skip - Use defaults and complete now
 
-You can also type a custom answer.
+➡️ You can also type a your answer.
 
 **User:** Custom XML format with specific tags
 
@@ -78,7 +78,7 @@ You can also type a custom answer.
 4. Next - Skip this question, continue to next
 5. Skip - Use defaults and complete now
 
-You can also type a custom answer.
+➡️ You can also type a your answer.
 
 **User:** 5
 
