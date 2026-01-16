@@ -10,6 +10,34 @@
 
 ---
 
+## What This Means for Paligo
+
+Based on our internal assessment, Paligo's AI systems are classified as **Limited Risk** under the EU AI Act.
+
+**What this means:**
+
+- ⚠️ **Transparency obligations apply** — We must disclose to users when they are interacting with AI
+- 📝 [Article 50](https://artificialintelligenceact.eu/article/50/) requirements are mandatory for our AI features
+- ✅ No conformity assessments or EU database registration required
+- ✅ No human oversight mandates beyond transparency
+
+**What we must do:**
+
+- 🏷️ Clearly label AI-generated content so users know it's not human-made
+- 💬 Disclose when users are interacting with a chatbot or AI assistant
+- 📋 Document our transparency measures (for audit readiness)
+- 🔄 Re-evaluate classification when adding new AI capabilities
+
+**What we should still consider:**
+
+- 👁️ Monitor for any AI features that could trigger High-Risk classification (e.g., profiling, employment decisions)
+- 📝 Consider voluntary adherence to EU codes of conduct beyond the minimum requirements
+
+> 💡 **Bottom Line**
+> Our Limited Risk classification means we must implement transparency disclosures under [Article 50](https://artificialintelligenceact.eu/article/50/). Users must always know when they're interacting with AI or viewing AI-generated content. However, we remain vigilant: any new AI feature touching sensitive areas (hiring, content moderation with profiling, biometrics) would require immediate re-classification to High-Risk.
+
+---
+
 ## 1. The Landscape of AI Governance: From Trust to Mandate
 
 The EU AI Act transforms risk categorization from voluntary "best practice" into a **mandatory gatekeeper for market access**. Unlike the flexible NIST AI RMF framework, it enforces specific safety thresholds using a **"proportionate risk methodology"**—regulatory burden scales with potential impact on health, safety, and fundamental rights. For businesses, this creates a "Dual Compliance Burden" overlapping with NIS 2 (cybersecurity) and DORA (financial resilience).
