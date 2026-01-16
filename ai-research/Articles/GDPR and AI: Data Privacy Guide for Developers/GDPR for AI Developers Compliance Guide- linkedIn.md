@@ -48,10 +48,10 @@ I've put together a complete guide covering:
 
 No legalese. Just developer-ready guidance.
 
-👉 Read the full guide: https://medium.com/@odere.pub/gdpr-for-ai-developers-compliance-guide-0125bf12a1d2
+👉 Read the full guide: <https://medium.com/@odere.pub/gdpr-for-ai-developers-compliance-guide-0125bf12a1d2>
 
 What's been your biggest challenge with GDPR in AI projects? I'd love to hear in the comments.
 
 —
 
-#GDPR #ArtificialIntelligence #DataPrivacy #MachineLearning #SoftwareDevelopment #EUAIAct #Compliance #AI #TechLaw #Developers
+# GDPR #ArtificialIntelligence #DataPrivacy #MachineLearning #SoftwareDevelopment #EUAIAct #Compliance #AI #TechLaw #Developers

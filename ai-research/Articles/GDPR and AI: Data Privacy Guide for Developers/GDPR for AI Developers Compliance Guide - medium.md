@@ -17,7 +17,8 @@ But here's the thing: GDPR compliance isn't just about avoiding fines. It's abou
 
 This guide breaks down exactly what you need to know — no legal jargon, just practical developer guidance.
 
-> **TL;DR for Busy Developers**
+> **TL;DR**
+>
 > - GDPR governs *how you handle data*; the EU AI Act governs *the AI system itself*
 > - You need a **lawful basis** (consent or legitimate interest) before processing personal data
 > - Users have enforceable rights: access, deletion, and explanation of automated decisions
@@ -186,24 +187,25 @@ These proposed changes directly address the biggest GDPR challenges for AI devel
 
 **Planning Phase 1**
 Identify your lawful basis
+
 1. asda
 2. asad
 Article 6
 ✅ Conduct a DPIA if high-risk
 Article 35
-1. Development Phase
+3. Development Phase
 ✅ Implement data minimization
 Article 5(1)©
 ✅ Build user rights endpoints (access, delete, export, correct)
 Article 15–22
 ✅ Add explainability for automated decisions
 Article 22
-1. Deployment Phase
+4. Deployment Phase
 ✅ Document all processing activities
 Article 30
 ✅ Establish a breach notification process
 Article 33
-1. Ongoing
+5. Ongoing
 ✅ Implement data retention and deletion schedules
 Article 5(1)(e)
 

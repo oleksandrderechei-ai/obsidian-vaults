@@ -2,7 +2,8 @@
 
 ## Introduction: Why Data Privacy is Your AI Project's Foundation
 
-> **TL;DR for Busy Developers**
+> **TL;DR**
+>
 > - GDPR governs *how you handle data*; the EU AI Act governs *the AI system itself*
 > - You need a **lawful basis** (consent or legitimate interest) before processing personal data
 > - Users have enforceable rights: access, deletion, and explanation of automated decisions
